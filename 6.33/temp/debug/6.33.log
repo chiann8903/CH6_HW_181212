@@ -1,0 +1,21 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+c:\users\chris\onedrive\桌面\107360212_何禹蒨\6.33\source\main.c(11): warning C4477: 'scanf_s' : 格式字串 '%d' 需要 'int *' 類型的引數，但 variadic 引數 1 的類型為 'int **'
+c:\users\chris\onedrive\桌面\107360212_何禹蒨\6.33\source\main.c(14): warning C4047: '函式': 'int' 與 'int *[5]' 間接取值的層級不同
+c:\users\chris\onedrive\桌面\107360212_何禹蒨\6.33\source\main.c(14): warning C4024: 'printarr': 型式和實質參數 1 不同的類型
+c:\users\chris\onedrive\桌面\107360212_何禹蒨\6.33\source\main.c(16): warning C4047: '函式': 'int' 與 'int *[5]' 間接取值的層級不同
+c:\users\chris\onedrive\桌面\107360212_何禹蒨\6.33\source\main.c(16): warning C4024: 'bubble': 型式和實質參數 1 不同的類型
+c:\users\chris\onedrive\桌面\107360212_何禹蒨\6.33\source\main.c(17): warning C4047: '函式': 'int' 與 'int *[5]' 間接取值的層級不同
+c:\users\chris\onedrive\桌面\107360212_何禹蒨\6.33\source\main.c(17): warning C4024: 'printarr': 型式和實質參數 1 不同的類型
+c:\users\chris\onedrive\桌面\107360212_何禹蒨\6.33\source\main.c(20): warning C4047: '函式': 'int' 與 'int *[5]' 間接取值的層級不同
+c:\users\chris\onedrive\桌面\107360212_何禹蒨\6.33\source\main.c(20): warning C4024: 'binary': 型式和實質參數 1 不同的類型
+c:\users\chris\onedrive\桌面\107360212_何禹蒨\6.33\source\main.c(20): warning C4047: '函式': 'int' 與 'int *' 間接取值的層級不同
+c:\users\chris\onedrive\桌面\107360212_何禹蒨\6.33\source\main.c(20): warning C4024: 'binary': 型式和實質參數 3 不同的類型
+c:\users\chris\onedrive\桌面\107360212_何禹蒨\6.33\source\main.c(24): warning C4028: 型式參數 1 與來自宣告的不同
+c:\users\chris\onedrive\桌面\107360212_何禹蒨\6.33\source\main.c(29): warning C4028: 型式參數 1 與來自宣告的不同
+c:\users\chris\onedrive\桌面\107360212_何禹蒨\6.33\source\main.c(34): warning C4047: '=': 'int' 與 'int *' 間接取值的層級不同
+c:\users\chris\onedrive\桌面\107360212_何禹蒨\6.33\source\main.c(36): warning C4047: '=': 'int *' 與 'int' 間接取值的層級不同
+c:\users\chris\onedrive\桌面\107360212_何禹蒨\6.33\source\main.c(30): warning C4101: 'a2': 未參考的區域變數
+c:\users\chris\onedrive\桌面\107360212_何禹蒨\6.33\source\main.c(41): warning C4028: 型式參數 1 與來自宣告的不同
+  6.33.vcxproj -> C:\Users\chris\OneDrive\桌面\107360212_何禹蒨\6.33\6.33\6.33\..\..\temp\debug\6.33.exe
